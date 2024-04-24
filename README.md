@@ -15,7 +15,7 @@ This NumPy tutorial provides a comprehensive introduction to the NumPy library, 
 9. [Resources](#resources)
 
 ## Installation
-To install NumPy, you can use pip:
+To install NumPy, you can use pip
 
 ```bash
 pip install numpy
